@@ -10,7 +10,7 @@ labels:
   - Python
   - IoT
 summary: A hardware and software platform for measuring wall power metrics.
-projecturl: https://github.com/ManthanND/Hamoye_Stage_D
+
 ---
 
 <img class="ui image" src="{{ site.baseurl }}/images/logo.jpg">
@@ -26,6 +26,6 @@ cheaply (less than $20) and also with simplicity in mind.
 The second component is the KiP software which receives measurements from the board and calculates voltage,
 watts, and amperage. The data can be displayed in real time and can also be stored for later analysis.
 
-For more information, please see our github page: <a href="http://anthonyjchriste.github.io/knowledge-is-power/">
-<i class="large github icon "></i>knowledge-is-power</a>.
+For more information, please see our github page: <a href="https://github.com/ManthanND/Hamoye_Stage_D">
+<i class="large github icon "></i>Data Science Cohort</a>.
 
