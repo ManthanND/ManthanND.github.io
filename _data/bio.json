@@ -4,44 +4,54 @@
     "label": "Graduate Researcher, Machine Intelligence Program, IIT Bombay",
     "picture": "https://manthannd.github.io/images/official photo.jpg",
     "email": "manthan.d2098@gmail.com",
-    "phone": "814-442-9524",
-    "website": "https://anthonyjchriste.github.io",
-    "summary": "I am working towards a Ph.D. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Winter, 2019.",
+    "phone": "+91-9145052338",
+    "website": "https://manthannd.github.io",
+    "summary": "I am accomplishing my Masters in Mechanical Engineering in the Machine Intelligence Program, Industry 4.0 at Indian Institute Of Technology, Bombay. I expect to graduate in fall 2021",
     "location": {
-      "address": "",
+      "address": "Silicon Ship,IIT Bombay",
       "postalCode": "96816",
-      "city": "Honolulu",
-      "countryCode": "USA",
-      "region": "Hawaii"
+      "city": "Mumbai",
+      "countryCode": "India",
+      "region": "Powai"
     },
     "profiles": [
       {
         "network": "github",
-        "username": "anthonyjchriste",
-        "url": "http://github.com/anthonyjchriste"
+        "username": "ManthanND",
+        "url": "http://github.com/ManthanND"
       },
       {
         "network": "linkedin",
-        "username": "anthonyjchriste",
-        "url": "http://linkedin.com/in/anthonyjchriste"
+        "username": "Manthan Dhisale",
+        "url": "https://www.linkedin.com/in/manthan-dhisale-801657149/"
       }
     ]
   },
   "interests": [
     {
-      "name": "distributed computing",
+      "name": "Internet Of Things",
       "keywords": [
         "spark",
         "kafka"
       ]
     },
     {
-      "name": "data science",
+      "name": "Artificial Intelligence",
       "keywords": [
       ]
     },
     {
-      "name": "signal classification",
+      "name": "Machine Learning",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Computational Structural Dynamics",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Finite Element Methods",
       "keywords": [
       ]
     }
@@ -73,22 +83,22 @@
   ],
   "education": [
     {
-      "institution": "University of Hawaii at Manoa, Honolulu, HI",
-      "area": "Computer Science (expected Winter, 2019)",
-      "studyType": "Ph.D.",
-      "startDate": "2014",
+      "institution": "Indian Institute Of Technology, Bombay",
+      "area": "Mechanical Engineering (expected Summer, 2021)",
+      "studyType": "Masters in Technology",
+      "startDate": "2019",
       "endDate": "Present",
-      "gpa": "4.0",
+      "gpa": "9.73",
       "courses": [
       ]
     },
     {
-      "institution": "University of Hawaii at Manoa, Honolulu, HI",
-      "area": "Computer Science",
-      "studyType": "M.S.",
-      "startDate": "2011",
-      "endDate": "2014",
-      "gpa": "4.0",
+      "institution": "Walchand College Of Engineering,Sangli",
+      "area": "Mechanical Engineering",
+      "studyType": "Bachelors in Technology",
+      "startDate": "2015",
+      "endDate": "2019",
+      "gpa": "9.67",
       "courses": [
       ]
     },
