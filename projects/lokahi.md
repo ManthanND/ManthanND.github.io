@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/lokahi.jpg
+image: images/gearbox.jpg
 title: Lokahi Framework
 permalink: projects/lokahi
 date: 2015
@@ -15,7 +15,7 @@ labels:
 summary: Lokahi is a framework of components for acquisition, storage, andlysis, and reporting of real-time distributed transient data.
 ---
 
-<img src="../images/lokahi-diagram.png" class="ui medium right floated image">
+<img src="../images/gearbox.jpg" class="ui medium right floated image">
 
 *Lokahi*, which means harmony in Hawaiian, is a set of software components that handle the acquisition, storage, 
 analysis, and reporting of distributed sensor data. 
