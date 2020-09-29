@@ -1,18 +1,18 @@
 ---
 layout: project
 type: project
-image: AI-logo.jpg
+image: 12.jpg
 title: Artificial Intelligence
 permalink: projects/kip
 date: 2013
 labels:
-  - Smart Grid
-  - Java
-  - Power Quality
+  - AI
+  - Python
+  - IoT
 summary: A hardware and software platform for measuring wall power metrics.
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/AI-logo.jpg">
+<img class="ui image" src="{{ site.baseurl }}/images/12.jpg">
 
 KiP consists of two components.
 
