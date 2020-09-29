@@ -13,20 +13,16 @@ summary: A Product Design project from scratch(New Product Development)
 
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/cleaningkart.jpg">
+<img class="ui image" src="{{ site.baseurl }}/images/cleaningkart.jpg ">
 
-KiP consists of two components.
+Autodesk Fusion 360 Design Project consisted of following stages 
 
-### Hardware
-The first component is a hardware board which measures power quality information. It takes non-intrusive measurements
-and sends that information over IP using UDP to the KiP software for analysis. The board was designed to be built
-cheaply (less than $20) and also with simplicity in mind.
-
-### Software
-The second component is the KiP software which receives measurements from the board and calculates voltage,
-watts, and amperage. The data can be displayed in real time and can also be stored for later analysis.
+### Market survey and Ideation
+Studying the market and then benchmarking various cleaning kart brands was the first step. Later different Unique Selling Propositions of each brands were considered. Also the current market demand was found out by simple surveys and articles.
+### Design
+After analysis of various components required to consider for assemblage, a rough sketch considering all the customer constraints was made. Here the basic height, width and length of the cart as decided. Also features like suction pump, scrubber and other things were decided
+###3D modelling and Simulation
+After having a rough sketch, it was then transformed to a 3D model using Autodesk Fusion 360 tool. Once created a basic simulation regarding different terrains was done and results were compared.
 
 For more information, please see our github page: <a href="https://github.com/ManthanND/Hamoye_Stage_D">
-<i class="large github icon "></i>Data Science Cohort</a>.
-
-
+<i class="large github icon "></i>Cleaning Kart_Fusion 360</a>.
