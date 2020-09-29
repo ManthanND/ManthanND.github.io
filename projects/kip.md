@@ -1,19 +1,19 @@
 ---
 layout: project
 type: project
-image: images/logo.jpg
-title: Artificial Intelligence
+image: images/cleaningkart.jpg
+title: AutoDesk Design Challenge “Cleaning Kart”
 permalink: projects/kip
-date: 2013
+date: 2016
 labels:
-  - AI
-  - Python
-  - IoT
-summary: A hardware and software platform for measuring wall power metrics.
+  - Fusion 360
+  - Autodesk Inventor
+  - Freeform Design
+summary: A Product Design project from scratch(New Product Development)
 
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/logo.jpg">
+<img class="ui image" src="{{ site.baseurl }}/images/cleaningkart.jpg">
 
 KiP consists of two components.
 
@@ -28,4 +28,5 @@ watts, and amperage. The data can be displayed in real time and can also be stor
 
 For more information, please see our github page: <a href="https://github.com/ManthanND/Hamoye_Stage_D">
 <i class="large github icon "></i>Data Science Cohort</a>.
+
 
