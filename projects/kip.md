@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: index.jpg
+image: AI-logo.jpg
 title: Artificial Intelligence
 permalink: projects/kip
 date: 2013
@@ -12,7 +12,7 @@ labels:
 summary: A hardware and software platform for measuring wall power metrics.
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/index.jpg">
+<img class="ui image" src="{{ site.baseurl }}/images/AI-logo.jpg">
 
 KiP consists of two components.
 
