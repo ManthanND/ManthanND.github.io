@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: logo.jpg
+image: images/logo.jpg
 title: Artificial Intelligence
 permalink: projects/kip
 date: 2013
