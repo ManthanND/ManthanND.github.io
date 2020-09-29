@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/kip.png
-title: Knowledge-is-Power (KiP)
+title: Artificial Intelligence
 permalink: projects/kip
 date: 2013
 labels:
@@ -12,7 +12,7 @@ labels:
 summary: A hardware and software platform for measuring wall power metrics.
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/kip-screenshot.png">
+<img class="ui image" src="{{ site.baseurl }}/images/AI-logo.jpg">
 
 KiP consists of two components.
 
