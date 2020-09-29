@@ -10,6 +10,7 @@ labels:
   - Python
   - IoT
 summary: A hardware and software platform for measuring wall power metrics.
+projecturl: https://github.com/ManthanND/Hamoye_Stage_D
 ---
 
 <img class="ui image" src="{{ site.baseurl }}/images/logo.jpg">
