@@ -1,9 +1,9 @@
 ---
 layout: project
 type: project
-image: images/lokahi.jpg
-title: Lokahi Framework
-permalink: projects/lokahi
+image: images/tui.jpg
+title: Tangible User Interface Design
+permalink: projects/tui
 date: 2015
 labels:
   - Play
@@ -15,7 +15,7 @@ labels:
 summary: Lokahi is a framework of components for acquisition, storage, andlysis, and reporting of real-time distributed transient data.
 ---
 
-<img src="../images/lokahi-diagram.png" class="ui medium right floated image">
+<img src="../images/tui.jpg" class="ui medium right floated image">
 
 *Lokahi*, which means harmony in Hawaiian, is a set of software components that handle the acquisition, storage, 
 analysis, and reporting of distributed sensor data. 
