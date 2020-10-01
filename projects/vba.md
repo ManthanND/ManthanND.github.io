@@ -4,7 +4,7 @@ type: project
 image: images/vba.jpg
 title: OpenPowerQuality
 permalink: projects/vba
-date: 2014
+date: 2018
 labels:
   - Smart Grid
   - Power Quality
