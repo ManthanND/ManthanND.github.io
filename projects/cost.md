@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/cost.jpg
-title: OpenPowerQuality
+title: Cost Estimator VBA Tool Development (COOPER Internship)
 permalink: projects/opq
 date: 2018
 labels:
