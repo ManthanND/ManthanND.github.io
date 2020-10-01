@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/cleaningkart.jpg
 title: AutoDesk Design Challenge “Cleaning Kart”
-permalink: projects/kip
+permalink: projects/cleaningkart
 date: 2016
 labels:
   - Fusion 360
