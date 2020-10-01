@@ -1,9 +1,9 @@
 ---
 layout: project
 type: project
-image: images/opq.png
+image: images/vba.jpg
 title: OpenPowerQuality
-permalink: projects/opq
+permalink: projects/vba
 date: 2014
 labels:
   - Smart Grid
@@ -15,7 +15,7 @@ labels:
 summary: My team developed a software and hardware suite for collecting, analyzing, and reporting of distributed power quality events.
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/opq-screenshot.png">
+<img class="ui image" src="{{ site.baseurl }}/images/vba.jpg">
 
 ### What is Open Power Quality
 
