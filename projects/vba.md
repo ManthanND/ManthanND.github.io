@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/vba.jpg
-title: OpenPowerQuality
+title: Polymer Materials Database(EATON Internship)
 permalink: projects/vba
 date: 2018
 labels:
