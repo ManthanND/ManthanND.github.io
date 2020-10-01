@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/vba.jpg
-title: Polymer Materials Database(EATON Internship)
+title: Polymer Materials Database Development(EATON Internship)
 permalink: projects/vba
 date: 2018
 labels:
