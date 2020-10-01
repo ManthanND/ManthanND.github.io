@@ -13,7 +13,7 @@ summary: A hardware and software platform for measuring wall power metrics.
 
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/logo.jpg">
+<img class="ui image" src="{{ site.baseurl }}/images/jigs.jpg">
 
 KiP consists of two components.
 
