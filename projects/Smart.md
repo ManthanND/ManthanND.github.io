@@ -15,7 +15,7 @@ summary:IoT enabled Smart Dispensing Machine for Water vending (As Bachelor's Pr
 
 <img class="ui image" src="{{ site.baseurl }}/images/Smart.jpg">
 
-KiP consists of two components.
+
 
 ### Hardware
 The first component is a hardware board which measures power quality information. It takes non-intrusive measurements
