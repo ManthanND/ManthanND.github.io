@@ -1,14 +1,14 @@
 ---
 layout: project
 type: project
-image: images/logo.jpg
-title: Artificial Intelligence
-permalink: projects/kip
-date: 2013
+image: images/jigs.jpg
+title: Jigs and Fixture Design (KPT)
+permalink: projects/Jigs
+date: 2017
 labels:
-  - AI
-  - Python
-  - IoT
+  - AutoCAD
+  - Engineering Graphics
+  - Manufacturing Processes
 summary: A hardware and software platform for measuring wall power metrics.
 
 ---
