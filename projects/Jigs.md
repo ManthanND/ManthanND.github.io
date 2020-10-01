@@ -9,7 +9,7 @@ labels:
   - AutoCAD
   - Engineering Graphics
   - Manufacturing Processes
-summary: A hardware and software platform for measuring wall power metrics.
+summary: An Industrial Internship project regarding to Jigs and Fixture designing.
 
 ---
 
