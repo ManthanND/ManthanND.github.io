@@ -1,10 +1,10 @@
 ---
 layout: project
 type: project
-image: images/logo.jpg
-title: Artificial Intelligence
-permalink: projects/kip
-date: 2013
+image: images/Smart.jpg
+title: IoT enabled Smart Dispensing Machine
+permalink: projects/Smart
+date: 2019
 labels:
   - AI
   - Python
@@ -13,7 +13,7 @@ summary: A hardware and software platform for measuring wall power metrics.
 
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/logo.jpg">
+<img class="ui image" src="{{ site.baseurl }}/images/Smart.jpg">
 
 KiP consists of two components.
 
