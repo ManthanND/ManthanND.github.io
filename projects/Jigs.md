@@ -15,17 +15,14 @@ summary: A hardware and software platform for measuring wall power metrics.
 
 <img class="ui image" src="{{ site.baseurl }}/images/jigs.jpg">
 
-KiP consists of two components.
+The Jigs and Fixture Design process for KPT Internship Project had following phases:
 
-### Hardware
-The first component is a hardware board which measures power quality information. It takes non-intrusive measurements
-and sends that information over IP using UDP to the KiP software for analysis. The board was designed to be built
-cheaply (less than $20) and also with simplicity in mind.
+### Jig Design for Plate hole drilling via Vertical Drilling Machine
+This consisted of an industrial part drawing of plate to be mass manufactured. To guide the drilling tool via holes, a support in form of Jig was expected. Considering all the dimensions of tool and part, we created Jig design via AutoCAD with right tolerances to be manufactured
+### Fixture Design
+In this project problem statement, a key-lot for electric motor spindle was expected. All the dimensions pertaining to key slot, spindle dimensions. So a V shaped Vice fixturing was developed for the same. The 3D part model via SOLIDWORKS was submitted to KPT
+### Industrial Implementation
+After all the designs submitted the parts Jig and Fixture were manufactured locally and verified. After few iterations we finalized the parts and the company later used for mass manufacturing.
 
-### Software
-The second component is the KiP software which receives measurements from the board and calculates voltage,
-watts, and amperage. The data can be displayed in real time and can also be stored for later analysis.
-
-For more information, please see our github page: <a href="https://github.com/ManthanND/Hamoye_Stage_D">
-<i class="large github icon "></i>Data Science Cohort</a>.
-
+For more information, please see my github page: <a href="https://github.com/ManthanND/Hamoye_Stage_D">
+<i class="large github icon "></i>Jigs and Fixture Design(KPT)</a>.
