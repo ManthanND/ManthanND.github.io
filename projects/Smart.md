@@ -9,9 +9,10 @@ labels:
   - IoT
   - Arduino
   - Mechatronics
-summary:IoT enabled Smart Dispensing Machine for Water vending (As Bachelor's Project)
 
+summary:IoT enabled Smart Dispensing Machine for Water vending (As Bachelor's Project)
 ---
+
 
 <img class="ui image" src="{{ site.baseurl }}/images/Smart.jpg">
 
