@@ -26,6 +26,6 @@ cheaply (less than $20) and also with simplicity in mind.
 The second component is the KiP software which receives measurements from the board and calculates voltage,
 watts, and amperage. The data can be displayed in real time and can also be stored for later analysis.
 
-For more information, please see our github page: <a href="https://github.com/ManthanND/Hamoye_Stage_D">
-<i class="large github icon "></i>Data Science Cohort</a>.
+For more information, please see our github page: <a href="https://github.com/Btech-project-2019/APFPOWVM">
+<i class="large github icon "></i>Internet Of Things enabled Water Dispensing</a>.
 
