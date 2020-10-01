@@ -6,10 +6,10 @@ title: IoT enabled Smart Dispensing Machine
 permalink: projects/Smart
 date: 2019
 labels:
-  - AI
-  - Python
   - IoT
-summary: A hardware and software platform for measuring wall power metrics.
+  - Arduino
+  - Mechatronics
+summary:IoT enabled Smart Dispensing Machine for Water vending (As Bachelor's Project)
 
 ---
 
