@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/jigs.jpg
-title: Jigs and Fixture Design (KPT)
+title: Jigs and Fixture Design (KPT Internship)
 permalink: projects/Jigs
 date: 2017
 labels:
