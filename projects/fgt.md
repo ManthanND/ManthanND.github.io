@@ -2,20 +2,18 @@
 layout: project
 type: project
 image: images/Smart.jpg
-title: OpenPowerQuality
+title: IoT enabled Smart Dispensing Machine (As B.Tech Project)
 permalink: projects/opq
 date: 2019
 labels:
-  - Smart Grid
-  - Power Quality
-  - Play Framework
-  - Visualizations
-  - Java
-  - Grid Map
-summary: My team developed a software and hardware suite for collecting, analyzing, and reporting of distributed power quality events.
+  - IoT
+  - Arduino
+  - Mechatronics
+
+summary: IoT enabled Smart Dispensing Machine for Water vending (As Bachelor's Project)
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/opq-screenshot.png">
+<img class="ui image" src="{{ site.baseurl }}/images/Smart.jpg">
 
 ### What is Open Power Quality
 
