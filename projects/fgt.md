@@ -1,10 +1,10 @@
 ---
 layout: project
 type: project
-image: images/opq.png
+image: images/Smart.jpg
 title: OpenPowerQuality
 permalink: projects/opq
-date: 2014
+date: 2019
 labels:
   - Smart Grid
   - Power Quality
