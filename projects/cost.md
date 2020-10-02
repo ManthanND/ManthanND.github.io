@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/cost.jpg
+image: images/cooper.png
 title: Cost Estimator VBA Tool Development (COOPER Internship)
 permalink: projects/opq
 date: 2018
@@ -15,7 +15,7 @@ labels:
 summary: My team developed a software and hardware suite for collecting, analyzing, and reporting of distributed power quality events.
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/cost.jpg">
+<img class="ui image" src="{{ site.baseurl }}/images/cooper.png">
 
 ### What is Open Power Quality
 
