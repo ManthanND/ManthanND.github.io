@@ -3,7 +3,6 @@ layout: essay
 type: essay
 image: images/cleaningkart.jpg
 title: AutoDesk Design Challenge “Cleaning Kart”
-permalink: essays/cleaningkart
 date: 2016
 labels:
   - Fusion 360
