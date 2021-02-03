@@ -5,7 +5,7 @@ image: images/cleaningkart.jpg
 title: Evidence of Core Competency  
 date: 2016-08-29  
 labels:
-  - PhD Portfolio
+  - Bachelor of Technology in Mechanical
 ---
 
 <img class="ui image" src="{{ site.baseurl }}/images/cleaningkart.jpg ">
