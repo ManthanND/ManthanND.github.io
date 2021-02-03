@@ -8,6 +8,7 @@ labels:
   - Bachelor of Technology in Mechanical
 ---
 
+<img class="ui image" src="{{ site.baseurl }}/images/cleaningkart.jpg ">
 *This page presents evidence of my core competencies in computer science as required for the [ICS Ph.D. Portfolio](http://www.ics.hawaii.edu/academics/graduate-degree-programs/ph-d-in-ics/#phd-portfolio). This includes evidence for my M.S. degree and the results of my qualifying exam.*
 
 ## Evidence of MS degree
