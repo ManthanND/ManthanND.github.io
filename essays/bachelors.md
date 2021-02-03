@@ -3,9 +3,8 @@ layout: essays
 type: essay
 image: images/logoc/wce.jpg
 title: Bachelors of Technology (Mechanical) 
-date: 2015 
-labels:
-  - SSC
+date: 2019 
+
 ---
 
 <img class="ui image" src="{{ site.baseurl }}/images/logoc/wce.jpg ">
