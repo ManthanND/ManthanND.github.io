@@ -1,5 +1,5 @@
 ---
-layout: essay  
+layout: essays  
 type: essay
 title: Evidence of Core Competency  
 date: 2016-08-29  
