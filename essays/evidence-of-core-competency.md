@@ -1,6 +1,7 @@
 ---
 layout: essays  
 type: essay
+image: images/cleaningkart.jpg
 title: Evidence of Core Competency  
 date: 2016-08-29  
 labels:
