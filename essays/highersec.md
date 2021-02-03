@@ -2,7 +2,7 @@
 layout: essays  
 type: essay
 image: images/logoc/wil.jpg
-title: Secondary Schooling  
+title: Higher Secondary Schooling  
 date: 2015 
 labels:
   - SSC
