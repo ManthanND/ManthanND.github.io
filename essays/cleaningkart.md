@@ -1,6 +1,6 @@
 ---
-layout: project
-type: project
+layout: essay
+type: essay
 image: images/cleaningkart.jpg
 title: AutoDesk Design Challenge “Cleaning Kart”
 permalink: projects/cleaningkart
