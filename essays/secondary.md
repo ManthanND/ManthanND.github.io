@@ -3,7 +3,7 @@ layout: essays
 type: essay
 image: images/logoc/abp.png
 title: Secondary Schooling  
-date: 2015 
+date: 2013 
 labels:
   - SSC
 ---
