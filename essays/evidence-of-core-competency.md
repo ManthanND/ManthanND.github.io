@@ -1,25 +1,19 @@
 ---
 layout: essays  
 type: essay
-image: images/cleaningkart.jpg
-title: Evidence of Core Competency  
+image: images/logoc/abp.png
+title: Secondary Schooling  
 date: 2016-08-29  
 labels:
-  - Bachelor of Technology in Mechanical
+  - SSC
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/cleaningkart.jpg ">
+<img class="ui image" src="{{ site.baseurl }}/images/logoc/abp.png ">
 *This page presents evidence of my core competencies in computer science as required for the [ICS Ph.D. Portfolio](http://www.ics.hawaii.edu/academics/graduate-degree-programs/ph-d-in-ics/#phd-portfolio). This includes evidence for my M.S. degree and the results of my qualifying exam.*
 
-## Evidence of MS degree
+## Secondary Schooling
 
-* MS Degree Certificate: Filed with ICS Department
 
-## Results of Qualifying Exam
-
-* Passed on December 2nd, 2014
-* Other conditions: None
-* Details and Form I with ICS Graduate Chair
 
 
 
