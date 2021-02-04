@@ -2,7 +2,7 @@
 layout: essays  
 type: essay
 image: images/logoc/medal.jpg
-title: Secondary Schooling  
+title: Gold Medalist B.Tech Mechanical (Batch 2018-19) 
 date: 2018 
 
 ---
