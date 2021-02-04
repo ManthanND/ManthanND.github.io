@@ -2,7 +2,7 @@
 layout: essay    
 type: essay    
 title: Other Evidence of Professional Capacity  
-date: 2019-02-18 
+date: 2019 
 labels:  
   - PhD Portfolio
 ---
