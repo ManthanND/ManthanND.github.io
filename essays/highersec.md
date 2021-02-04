@@ -5,7 +5,7 @@ image: images/logoc/wil.jpg
 title: Higher Secondary Schooling  
 date: 2015 
 labels:
-  - SSC
+  - HSC
 ---
 
 <img class="ui image" src="{{ site.baseurl }}/images/logoc/wil.jpg ">
