@@ -3,7 +3,7 @@ layout: essays
 type: essay
 image: images/CL.jpg
 title: Contingent Leader, Inter IIT Tech Meet 9.0
-date: 2020 
+date: 2021 
 
 ---
 <img class="ui image" src="{{ site.baseurl }}/images/CL.jpg">
