@@ -29,7 +29,7 @@
   },
   "interests": [
     {
-      "name": "Internet Of Things",
+      "name": "Finite Element Methods",
       "keywords": [
         "spark",
         "kafka"
@@ -41,17 +41,17 @@
       ]
     },
     {
-      "name": "Machine Learning",
-      "keywords": [
-      ]
-    },
-    {
       "name": "Computational Structural Dynamics",
       "keywords": [
       ]
     },
     {
-      "name": "Finite Element Methods",
+      "name": "Computational Fluid Dynamics",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Internet of Things",
       "keywords": [
       ]
     }
@@ -88,7 +88,7 @@
       "studyType": "Masters in Technology",
       "startDate": "2019",
       "endDate": "Present",
-      "gpa": "9.73",
+      "gpa": "9.91",
       "courses": [
       ]
     },
@@ -103,12 +103,22 @@
       ]
     },
     {
-      "institution": "Slippery Rock University of Pennsylvania, Slippery Rock, PA",
-      "area": "Computer Science",
-      "studyType": "B.S.",
-      "startDate": "2007",
-      "endDate": "2011",
-      "gpa": "3.5",
+      "institution": "Willingdon College of Arts and Science, Sangli",
+      "area": "Basic Science",
+      "studyType": "Higher Secondary",
+      "startDate": "2013",
+      "endDate": "2015",
+      "gpa": "94%",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "Shri A. B. P. English School, Sangli",
+      "area": "General Science",
+      "studyType": "Matriculation",
+      "startDate": "2003",
+      "endDate": "2013",
+      "gpa": "96%",
       "courses": [
       ]
     }
