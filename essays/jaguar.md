@@ -2,7 +2,7 @@
 layout: essays  
 type: essay
 image: images/logoc/jaguargold.jpg
-title: Jaguar Land Rover Challenge (Gold Medal) 
+title: Jaguar Land Rover Challenge (Gold) 
 date: 2021 
 labels:
 ---
