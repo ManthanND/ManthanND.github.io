@@ -3,7 +3,7 @@ layout: essays
 type: essay
 image: images/logoc/btgold.jpg
 title: Gold Medalist B.Tech Mechanical (Batch 2018-19) 
-date: 2018 
+date: 2019 
 
 ---
 
