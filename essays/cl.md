@@ -11,5 +11,5 @@ date: 2021
 
 ## Contingent Leader, Inter IIT Tech Meet 9.0
 # IIT Bombay
-# Achieved a historic victory for IIT Bombay by securing overall First Runner Up among all 23 IITs with 13,000 participants
-# Won 3 Gold medals, 2 Silver Medals and 4 Bronze Medals among all 11 challenges from BOSCH, ISRO, DRDO, Jaguar Land Rover, Bridge i2i, Ru-Tag, etc
+### Achieved a historic victory for IIT Bombay by securing overall First Runner Up among all 23 IITs with 13,000 participants
+### Won 3 Gold medals, 2 Silver Medals and 4 Bronze Medals among all 11 challenges from BOSCH, ISRO, DRDO, Jaguar Land Rover, Bridge i2i, Ru-Tag, etc
