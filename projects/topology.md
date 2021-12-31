@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/cooper.png
+image: images/topology.JPG
 title: Topology Optimization using Finite Element Methods based on Optimality Criteria (Summer of Science)
 permalink: projects/opq
 date: 2021
