@@ -15,7 +15,7 @@ labels:
 summary: The project involved Topology Optimization of a Structural and Thermal system using SIMP method in Sigmund-Bendsoe algo. over FEM formulations, achieving an avg. accuracy 92% by validating against standard TopOpt, Ansys app.
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/cooper.png">
+<img class="ui image" src="{{ site.baseurl }}/images/topology.JPG">
 
 ### What is Open Power Quality
 
