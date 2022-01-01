@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/Smart.jpg
 title: IoT enabled Smart Dispensing Machine (As B.Tech Project)
-permalink: projects/opq
+permalink: projects/fgt
 date: 2019
 labels:
   - IoT
