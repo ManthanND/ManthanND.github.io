@@ -4,7 +4,7 @@ type: project
 image: images/substructure.JPG
 title: Dynamic Degree of Freedom Reduction and Analysis of Finite Element Assembly using Characteristic Constraint Modes with Component Mode Synthesis Modelling
 permalink: projects/opq
-date: 2021
+date: 2020
 labels:
   - Smart Grid
   - Power Quality
