@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/jlr.png
+image: images/digital.JPG
 title: Digital Twin Construction for Vibration Analysis of Spindle Head in various Machine Tools for Predictive Analytics
 permalink: projects/ditwin
 date: 2020
@@ -15,7 +15,7 @@ labels:
 summary: The construction involved the development of a Cyber Twin for Predictive Analytics over Vibration signatures in the form of 3D gyroscopic acceleration of Machine-tool Spindle head and simulating it real-time on CAD software.
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/jlr.png">
+<img class="ui image" src="{{ site.baseurl }}/images/digital.JPG">
 
 ### What is Open Power Quality
 
