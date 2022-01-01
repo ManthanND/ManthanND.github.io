@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/jlr.png
 title: Design of Damping Energy Harvesting System for Automobile Suspension (Jaguar Land Rover, India)
-permalink: projects/opq
+permalink: projects/landrover
 date: 2021
 labels:
   - Smart Grid
