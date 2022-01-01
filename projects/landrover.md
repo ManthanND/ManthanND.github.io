@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/jlr.png
-title: Design of Damping Energy Harvesting System for Automobile Suspension (Inter IIT Tech Meet: Jaguar Land Rover)
+title: Design of Damping Energy Harvesting System for Automobile Suspension (Jaguar Land Rover, India)
 permalink: projects/opq
 date: 2021
 labels:
