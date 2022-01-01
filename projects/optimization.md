@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/fullcar.png
 title: Design Optimization on the Full Car SUV vehicle suspension system to maximize riders comfort against road vibrations using Genetic Algorithm, Simulated Annealing and Particle Swarm Optimization.
-permalink: projects/opq
+permalink: projects/optimization
 date: 2021
 labels:
   - Smart Grid
