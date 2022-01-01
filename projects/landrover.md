@@ -12,7 +12,7 @@ labels:
   - Visualizations
   - Java
   - Grid Map
-summary: The project involved Topology Optimization of a Structural and Thermal system using SIMP method in Sigmund-Bendsoe algo. over FEM formulations, achieving an avg. accuracy 92% by validating against standard TopOpt, Ansys app.
+summary: The project involved development of 5 different vibration energy capturing mechanisms recognized by JLR, India by modelling the car suspension system in SIMULINK with Max 37.85% conversion efficiency and 450 CC space
 ---
 
 <img class="ui image" src="{{ site.baseurl }}/images/jlr.png">
