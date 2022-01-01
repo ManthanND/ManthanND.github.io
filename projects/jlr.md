@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/jlr.png
-title: Topology Optimization using Finite Element Methods based on Optimality Criteria (Summer of Science)
+title: Design of Damping Energy Harvesting System for Automobile Suspension System (Inter IIT: Jaguar LR, India)
 permalink: projects/opq
 date: 2021
 labels:
