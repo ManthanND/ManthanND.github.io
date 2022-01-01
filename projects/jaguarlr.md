@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/topology.JPG
+image: images/jlr.png
 title: Design of Damping Energy Harvesting System for Automobile Suspension System (Inter IIT: Jaguar LR, India)
 permalink: projects/opq
 date: 2021
@@ -15,7 +15,7 @@ labels:
 summary: Involved development of 5 different vibration energy capturing mechanisms recognized by JLR, India. This involved modelling the car suspension system in SIMULINK with Max 37.85% conversion efficiency and 450 CC space. Different mechanisms based on various physics involved: Vortex-Induced Vibrations, Thermoelectric.
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/topology.JPG">
+<img class="ui image" src="{{ site.baseurl }}/images/jlr.png">
 
 ### What is Open Power Quality
 
