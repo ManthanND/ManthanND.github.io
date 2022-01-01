@@ -12,7 +12,7 @@ labels:
   - Visualizations
   - Java
   - Grid Map
-summary: Involved development of 5 different vibration energy capturing mechanisms recognized by JLR, India. This involved modelling the car suspension system in SIMULINK with Max 37.85% conversion efficiency and 450 CC space. Different mechanisms based on various physics involved: Vortex-Induced Vibrations, Thermoelectric.
+summary: Involved development of 5 different vibration energy capturing mechanisms recognized by JLR, India. 
 ---
 
 <img class="ui image" src="{{ site.baseurl }}/images/jlr.png">
