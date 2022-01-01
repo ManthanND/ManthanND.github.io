@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/topology.JPG
 title: Topology Optimization using Finite Element Methods based on Optimality Criteria (Summer of Science)
-permalink: projects/opq
+permalink: projects/topology
 date: 2021
 labels:
   - Smart Grid
