@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/topology.JPG
+image: images/jlr.png
 title: Topology Optimization using Finite Element Methods based on Optimality Criteria (Summer of Science)
 permalink: projects/opq
 date: 2021
@@ -15,7 +15,7 @@ labels:
 summary: The project involved Topology Optimization of a Structural and Thermal system using SIMP method in Sigmund-Bendsoe algo. over FEM formulations, achieving an avg. accuracy 92% by validating against standard TopOpt, Ansys app.
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/topology.JPG">
+<img class="ui image" src="{{ site.baseurl }}/images/jlr.png">
 
 ### What is Open Power Quality
 
