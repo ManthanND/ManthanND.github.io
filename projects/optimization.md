@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/jlr.png
+image: images/fullcar.png
 title: Design Optimization on the Full Car SUV vehicle suspension system to maximize riders comfort against road vibrations using Genetic Algorithm, Simulated Annealing and Particle Swarm Optimization.
 permalink: projects/opq
 date: 2021
@@ -15,7 +15,7 @@ labels:
 summary: The project involved designing of stable suspension for road vibrations by optimizing a 12 variable Spring-Mass-Damper Laplace transformed design space achieving a maximum accuracy of 86% & 90 MiB usage for SA algorithm.
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/jlr.png">
+<img class="ui image" src="{{ site.baseurl }}/images/fullcar.png">
 
 ### What is Open Power Quality
 
