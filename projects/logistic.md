@@ -12,7 +12,7 @@ labels:
   - Visualizations
   - Java
   - Grid Map
-summary: The project “Productivity Tracking for fleet management based on Object recognition using Computer Vision Techniques over low power-edge computing devices like Raspberry Pi and Android” involved the deployment of CNN models using Tensorflow on Raspberry Pi and Tensorlite on Android with optimized models of 92.36% (RCNN) and 90.28% (SSD) accuracy.
+summary: The project involved the deployment of CNN models using Tensorflow on Raspberry Pi and Tensorlite on Android with optimized models of 92.36% (RCNN) and 90.28% (SSD) accuracy.
 
 <img class="ui image" src="{{ site.baseurl }}/images/logistic.jpg">
 
