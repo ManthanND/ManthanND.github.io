@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/logistic.jpg
-title: Productivity Tracking for fleet management based on Object recognition using Computer Vision Techniques over low power-edge computing devices like Raspberry Pi and Android
+title: Productivity Tracking for fleet management based on Object recognition using Computer Vision Techniques over low power edge computing devices like Raspberry Pi and Android
 permalink: projects/logistic
 date: 2020
 labels:
