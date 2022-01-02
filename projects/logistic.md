@@ -13,7 +13,7 @@ labels:
   - Java
   - Grid Map
 summary: The project involved the deployment of CNN models using Tensorflow on Raspberry Pi and Tensorlite on Android with optimized models of 92.36% on faster RCNN and 90.28% on SSD mobileNet accuracy.
-
+---
 <img class="ui image" src="{{ site.baseurl }}/images/logistic.jpg">
 
 ### What is Open Power Quality
