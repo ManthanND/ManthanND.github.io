@@ -4,7 +4,7 @@ type: project
 image: images/nestle.png
 title: Warehouse Loading-Unloading of Fast Moving Consumer Goods (FMCGs) Productivity Tracking
 permalink: projects/nestle
-date: 2021
+date: 2020
 labels:
   - Smart Grid
   - Power Quality
