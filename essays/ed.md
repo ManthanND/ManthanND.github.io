@@ -1,7 +1,7 @@
 ---
 layout: essays  
 type: essay
-image: images/logoc/ed.jpg
+image: images/logoc/edd.jpg
 title: Minor Master Of Technology (Engineering Design) 
 date: 2021 
 labels:
