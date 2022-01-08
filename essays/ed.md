@@ -2,7 +2,7 @@
 layout: essays  
 type: essay
 image: images/logoc/ed.jpg
-title: Post Graduate Minor (Engineering Design) 
+title: Minor Master Of Technology (Engineering Design) 
 date: 2021 
 labels:
 ---
