@@ -9,10 +9,8 @@ labels:
 ---
 
 <img class="ui image" src="{{ site.baseurl }}/images/logoc/abp.png ">
-*This page presents evidence of my core competencies in computer science as required for the [ICS Ph.D. Portfolio](http://www.ics.hawaii.edu/academics/graduate-degree-programs/ph-d-in-ics/#phd-portfolio). This includes evidence for my M.S. degree and the results of my qualifying exam.*
+*Completed my Primary and Secondary schooling from [Shri A. B. P. English School, Sangli](https://www.abpatilschool.org/). Finished my matriculation from Maharashtra State Board with 96% aggregate score.*
 
-## Secondary Schooling
-# Shri A.B.P.E.S
 
 
 
