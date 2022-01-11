@@ -9,7 +9,5 @@ labels:
 ---
 
 <img class="ui image" src="{{ site.baseurl }}/images/logoc/wil.jpg ">
-*This page presents evidence of my core competencies in computer science as required for the [ICS Ph.D. Portfolio](http://www.ics.hawaii.edu/academics/graduate-degree-programs/ph-d-in-ics/#phd-portfolio). This includes evidence for my M.S. degree and the results of my qualifying exam.*
+*Completed my HigherSecondary from [Willingdon College of Arts and Science, Deccan Education Society, Sangli](http://www.willingdoncollege.ac.in/). Secured an aggregate score of 94% from Maharashtra State Board.*
 
-## Higher Secondary Schooling
-# Willingdon College for Arts and Science
