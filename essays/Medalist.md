@@ -1,13 +1,13 @@
 ---
 layout: essays  
 type: essay
-image: images/AUVSI.jpg
+image: images/silver.jpg
 title: Institute Silver Medalist, IIT Bombay
 date: 2022 
 labels:
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/AUVSI.jpg ">
+<img class="ui image" src="{{ site.baseurl }}/images/silver.jpg ">
 *This award is presented by the institute for securing Department Rank 1 in Mechanical Engineering for the Master's program.*
 
 
