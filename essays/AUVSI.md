@@ -3,7 +3,7 @@ layout: essays
 type: essay
 image: images/AUVSI.jpg
 title: AUVSI SUAS 2022, USA 
-date: 2022-2023 
+date: 2023 
 labels:
 ---
 
