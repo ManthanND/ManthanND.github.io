@@ -8,7 +8,8 @@ date: 2019
 ---
 
 <img class="ui image" src="{{ site.baseurl }}/images/kpmg.jpg ">
-*This page presents evidence of my core competencies in computer science as required for the [ICS Ph.D. Portfolio](http://www.ics.hawaii.edu/academics/graduate-degree-programs/ph-d-in-ics/#phd-portfolio). This includes evidence for my M.S. degree and the results of my qualifying exam.*
+*Achieved Lean Six Sigma Green Belt from KPMG, India. Learned various set of tools and techniques to perform process improvement.*
 
 ## KPMG Six Sigma Green Belt Certified
 # IIT Bombay
+Achieved Lean Six Sigma Green Belt from KPMG, India. Learned various set of tools and techniques to perform process improvement.
