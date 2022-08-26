@@ -8,7 +8,7 @@ labels:
 ---
 
 <img class="ui image" src="{{ site.baseurl }}/images/logoc/Tenderd.png ">
-*This page presents evidence of my core competencies in computer science as required for the [ICS Ph.D. Portfolio](http://www.ics.hawaii.edu/academics/graduate-degree-programs/ph-d-in-ics/#phd-portfolio). This includes evidence for my M.S. degree and the results of my qualifying exam.*
+*Worked on the task of "Productivity Tracking for fleet management based on Object recognition using Computer Vision Techniques over low power-edge computing devices like Raspberry Pi and Android” which involved the deployment of CNN models using Tensorflow on Raspberry Pi and Tensorlite on Android.*
 
 ## Computer Vision Intern
 ## Tenderd, United Arab Emirates
