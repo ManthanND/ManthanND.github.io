@@ -8,7 +8,8 @@ date: 2020
 ---
 
 <img class="ui image" src="{{ site.baseurl }}/images/logoc/orgcolor.jpeg ">
-*This page presents evidence of my core competencies in computer science as required for the [ICS Ph.D. Portfolio](http://www.ics.hawaii.edu/academics/graduate-degree-programs/ph-d-in-ics/#phd-portfolio). This includes evidence for my M.S. degree and the results of my qualifying exam.*
+*The award was presented for contribution in organizational activities of the Institute. This was in recognition to different responsibilities like Post Graduate Nominee, Contingent Leader and Inter IIT Tech Meet 9.0.*
 
 ## Organizational Color 2020 Award, IIT Bombay
 # IIT Bombay
+The award was presented for contribution in organizational activities of the Institute. This was in recognition to different responsibilities like Post Graduate Nominee, Contingent Leader and Inter IIT Tech Meet 9.0.
