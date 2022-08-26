@@ -8,7 +8,8 @@ labels:
 ---
 
 <img class="ui image" src="{{ site.baseurl }}/images/logoc/nestle.png ">
-*This page presents evidence of my core competencies in computer science as required for the [ICS Ph.D. Portfolio](http://www.ics.hawaii.edu/academics/graduate-degree-programs/ph-d-in-ics/#phd-portfolio). This includes evidence for my M.S. degree and the results of my qualifying exam.*
+*Worked on two major projects in Supply Chain. First was ‘Designing of Warehouse Health Management Scorecard : Benchmarking of best Warehousing Practices across FMCG and across industries and creating a Scorecard' benchmarking of important scorecard templates, finding metrices to record. Second was ‘Warehouse Loading-Unloading of Fast Moving Consumer Goods (FMCGs) Productivity Tracker’ involving development of template using VBA for determining and optimizing bay productivity for loading-unloading of FMCG goods.*
 
 ## Operations Intern
 ## Nestle India, Pune
+Worked on two major projects in Supply Chain. First was ‘Designing of Warehouse Health Management Scorecard : Benchmarking of best Warehousing Practices across FMCG and across industries and creating a Scorecard' benchmarking of important scorecard templates, finding metrices to record. Second was ‘Warehouse Loading-Unloading of Fast Moving Consumer Goods (FMCGs) Productivity Tracker’ involving development of template using VBA for determining and optimizing bay productivity for loading-unloading of FMCG goods.
