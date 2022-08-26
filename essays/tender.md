@@ -12,3 +12,4 @@ labels:
 
 ## Computer Vision Intern
 ## Tenderd, United Arab Emirates
+Worked on the task of "Productivity Tracking for fleet management based on Object recognition using Computer Vision Techniques over low power-edge computing devices like Raspberry Pi and Android” which involved the deployment of CNN models using Tensorflow on Raspberry Pi and Tensorlite on Android.
