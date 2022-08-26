@@ -8,7 +8,8 @@ labels:
 ---
 
 <img class="ui image" src="{{ site.baseurl }}/images/logoc/eaton.png ">
-*This page presents evidence of my core competencies in computer science as required for the [ICS Ph.D. Portfolio](http://www.ics.hawaii.edu/academics/graduate-degree-programs/ph-d-in-ics/#phd-portfolio). This includes evidence for my M.S. degree and the results of my qualifying exam.*
+*Development of Cost Estimation Tool for Injection Moulded Polymer Products for Lighting Division, EIIC. The project aimed to develop a technique called “Design for Economy” which will help predict the price of final polymer products (both NPD and TPD) during the Design Stage itself by controlling the design, mfg. and material configurations.*
 
 ## Engineering Intern
 ## Eaton India Innovation Center, Pune
+Completed my Bachelor's Internship from EATON India. Developed a Cost Estimation Tool for Injection Moulded Polymer Products for Lighting Division, EIIC. The project aimed to develop a technique called “Design for Economy” which will help predict the price of final polymer products (both NPD and TPD) during the Design Stage itself by controlling the design, mfg. and material configurations.
