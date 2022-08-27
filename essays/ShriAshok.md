@@ -4,7 +4,7 @@ type: essay
 image: images/Ashok.JPG
 title: Shri Ashok Chaturvedi Memorial Prize 
 date: 2022 
-labels:
+labels: Award
 ---
 
 <img class="ui image" src="{{ site.baseurl }}/images/Ashok.JPG ">
