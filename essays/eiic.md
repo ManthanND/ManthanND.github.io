@@ -4,7 +4,7 @@ type: essay
 image: images/logoc/eaton.png
 title: Engineering Intern (Eaton India Innovation Center)
 date: 2018
-labels:
+labels: Position
 ---
 
 <img class="ui image" src="{{ site.baseurl }}/images/logoc/eaton.png ">
