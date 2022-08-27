@@ -4,7 +4,7 @@ type: essay
 image: images/logoc/Tenderd.png
 title: Computer Vision Intern
 date: 2020
-labels:
+labels: Position
 ---
 
 <img class="ui image" src="{{ site.baseurl }}/images/logoc/Tenderd.png ">
