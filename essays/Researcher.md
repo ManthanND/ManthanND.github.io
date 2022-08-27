@@ -4,7 +4,7 @@ type: essay
 image: images/Research2.jpg
 title: Post Graduate Researcher Award 
 date: 2021
-labels:
+labels: Award
 ---
 
 <img class="ui image" src="{{ site.baseurl }}/images/Research2.jpg ">
