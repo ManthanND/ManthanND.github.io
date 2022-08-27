@@ -4,7 +4,7 @@ type: essay
 image: images/logoc/engg.JPG
 title: Minor Master Of Technology (Engineering Design) 
 date: 2021 
-labels:
+labels: M.Tech
 ---
 
 <img class="ui image" src="{{ site.baseurl }}/images/logoc/engg.JPG ">
