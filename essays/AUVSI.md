@@ -4,7 +4,7 @@ type: essay
 image: images/AUVSI.jpg
 title: AUVSI SUAS 2022, USA 
 date: 2023 
-labels:
+labels: International Competition
 ---
 
 <img class="ui image" src="{{ site.baseurl }}/images/AUVSI.jpg ">
