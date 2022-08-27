@@ -9,7 +9,8 @@ labels:
 ---
 
 <img class="ui image" src="{{ site.baseurl }}/images/IITBOMBAY.jpeg ">
-*This page presents evidence of my core competencies in computer science as required for the [ICS Ph.D. Portfolio](http://www.ics.hawaii.edu/academics/graduate-degree-programs/ph-d-in-ics/#phd-portfolio). This includes evidence for my M.S. degree and the results of my qualifying exam.*
+*Completed my Master of Technology in Mechanical Engineering from Indian Institute of Technology, Bombay. The degree was conferred to me on the 60th Diamond Jubilee Convocation from the hands of Mr. Kumar Mangalam Birla, Chairman BITS, Chancellor IIM Ahemdabad.*
 
 ## Master Of Technology (Mechanical) 
 # Indian Institute of Technology, Bombay
+Completed my Master of Technology in Mechanical Engineering from Indian Institute of Technology, Bombay. The degree was conferred to me on the 60th Diamond Jubilee Convocation from the hands of Mr. Kumar Mangalam Birla, Chairman BITS, Chancellor IIM Ahemdabad.
