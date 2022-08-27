@@ -4,7 +4,7 @@ type: essay
 image: images/kpmg.jpg
 title: Lean Six Sigma Green Belt Certified (KPMG)
 date: 2019
-
+labels: Certification
 ---
 
 <img class="ui image" src="{{ site.baseurl }}/images/kpmg.jpg ">
