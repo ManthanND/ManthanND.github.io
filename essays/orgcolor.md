@@ -4,7 +4,7 @@ type: essay
 image: images/logoc/orgcolor.jpeg
 title: Organizational Color 2020 Award, IIT Bombay
 date: 2020 
-
+labels: Award
 ---
 
 <img class="ui image" src="{{ site.baseurl }}/images/logoc/orgcolor.jpeg ">
