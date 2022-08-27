@@ -4,7 +4,7 @@ type: essay
 image: images/logoc/techcolor.jpeg
 title: Technical Color 2020 Award, IIT Bombay
 date: 2020 
-
+labels: Award
 ---
 
 <img class="ui image" src="{{ site.baseurl }}/images/logoc/techcolor.jpeg ">
