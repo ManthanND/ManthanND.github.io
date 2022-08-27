@@ -4,7 +4,7 @@ type: essay
 image: images/IITBOMBAY.jpeg
 title: Master Of Technology (Mechanical)  
 date: 2022
-labels:M.Tech
+labels: M.Tech
 ---
 
 <img class="ui image" src="{{ site.baseurl }}/images/IITBOMBAY.jpeg ">
