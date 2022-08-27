@@ -8,7 +8,8 @@ labels:
 ---
 
 <img class="ui image" src="{{ site.baseurl }}/images/logoc/jaguargold.jpg ">
-*This page presents evidence of my core competencies in computer science as required for the [ICS Ph.D. Portfolio](http://www.ics.hawaii.edu/academics/graduate-degree-programs/ph-d-in-ics/#phd-portfolio). This includes evidence for my M.S. degree and the results of my qualifying exam.*
+*Secured Absolute Gold Medal for IIT Bombay in the Jaguar Land Rover Challenge by Inter IIT Tech Meet 9.0. The problem constituted of creating a Damping Energy Harvesting system for C-type road conditions.*
 
 ## Jaguar Land Rover Challenge
 ## Inter IIT Tech Meet 9.0
+Secured Absolute Gold Medal for IIT Bombay in the Jaguar Land Rover Challenge by Inter IIT Tech Meet 9.0. The problem constituted of creating a Damping Energy Harvesting system for C-type road conditions.
