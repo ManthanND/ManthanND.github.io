@@ -4,7 +4,7 @@ type: essay
 image: images/silver.jpg
 title: Institute Silver Medalist, IIT Bombay
 date: 2022 
-labels:
+labels: Award
 ---
 
 <img class="ui image" src="{{ site.baseurl }}/images/silver.jpg ">
