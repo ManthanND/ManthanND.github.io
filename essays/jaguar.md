@@ -4,7 +4,7 @@ type: essay
 image: images/logoc/jaguargold.jpg
 title: Jaguar Land Rover Challenge (Gold) 
 date: 2021 
-labels:
+labels: Award
 ---
 
 <img class="ui image" src="{{ site.baseurl }}/images/logoc/jaguargold.jpg ">
