@@ -4,7 +4,7 @@ type: essay
 image: images/Overall.jpg
 title: Academic Excellence Award
 date: 2021 
-labels:
+labels: Award
 ---
 
 <img class="ui image" src="{{ site.baseurl }}/images/Overall.jpg ">
