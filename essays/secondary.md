@@ -5,7 +5,7 @@ image: images/logoc/abp.png
 title: Secondary Schooling  
 date: 2013 
 labels:
-  - SSC
+  - Matriculation
 ---
 
 <img class="ui image" src="{{ site.baseurl }}/images/logoc/abp.png ">
