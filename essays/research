@@ -4,7 +4,7 @@ type: essay
 image: images/logoc/ncair.jpg
 title: Research Assistant, NCAIR, IIT Bombay
 date: 2021
-
+labels: Position of Responsibility
 ---
 
 <img class="ui image" src="{{ site.baseurl }}/images/logoc/ncair.jpg ">
