@@ -4,7 +4,7 @@ type: essay
 image: images/Devi.JPG
 title: Devidayal Tulsiram, P. M. Natu, Damle Trust Prize
 date: 2022 
-labels:
+labels: Award
 ---
 
 <img class="ui image" src="{{ site.baseurl }}/images/Devi.JPG ">
