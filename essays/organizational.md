@@ -4,7 +4,7 @@ type: essay
 image: images/logoc/organizational.jpg
 title: Organizational Special Mention 2019 Award, IIT Bombay
 date: 2020 
-
+labels: Award
 ---
 
 <img class="ui image" src="{{ site.baseurl }}/images/logoc/organizational.jpg ">
