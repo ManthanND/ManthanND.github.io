@@ -4,7 +4,7 @@ type: essay
 image: images/logoc/btgold.jpg
 title: Gold Medalist B.Tech Mechanical (Batch 2018-19) 
 date: 2019 
-
+labels: Award
 ---
 
 <img class="ui image" src="{{ site.baseurl }}/images/logoc/btgold.jpg ">
