@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Manthan N. Dhisale",
-    "label": "IIT Bombay ❖ Bajaj Auto | Ex-Eaton, Nestlé",
+    "label": "IIT Bombay ❖ EATON Corporation",
     "picture": "https://manthannd.github.io/images/official photo.jpg",
     "email": "dhisalemanthan916@gmail.com",
     "phone": "+91-9145052338",
     "website": "https://manthannd.github.io",
-    "summary": "Hi there! Greetings from me :). I completed my Master's from Department of Mechanical Engineering, Indian Institute of Technology, Bombay. My research domain includes advancements in Multi-Physics Finite Element Simulations. I have found that nothing satisfies me more than meeting new people, solving problems and contributing to overall development of society and nation. I would love to contribute in the domain of Multi-Physics, Finite Elements, Computational Science, Machine Design and Fluid Dynamics which will enhance the existing mechanical systems.",
+    "summary": "Hi there! Greetings :). I completed my Master's from Department of Mechanical Engineering, Indian Institute of Technology, Bombay. I have found that nothing satisfies me more than meeting new people, solving problems and contributing to overall technology development. Feel free to reach me out on my email or linkedin to discuss anything on Tech & Life :).",
     "location": {
       "address": "Silicon Ship,IIT Bombay",
       "postalCode": "400076",
@@ -123,7 +123,16 @@
       ]
     }
   ],
-  "work": [{
+  "work": [
+    {
+    "company": "EATON Corporation",
+    "position": "R&D Engineer",
+    "website": "",
+    "startDate": "2022",
+    "endDate": "Present",
+    "summary": "Part of Center for Digital Enginering team which supports on CAE, CFD and CAD aspects of product development. Contribued in designing of various EV transmissions, Clutch, Battery Disconnector Units for various customers like TESLA, Cummins, GM, HKMC and Ford Motors",
+    "highlights": []
+  },{
     "company": "National Center of Aerospace Innovation and Research, IIT Bombay",
     "position": "Research Assistant",
     "website": "",
